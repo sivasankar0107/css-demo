@@ -1,0 +1,24 @@
+h1{
+    color:black;
+    background-color: rgb(240, 240, 14);
+    text-align: center;
+
+}
+body{
+    background-image: url(pubg.jpg);
+}
+button{
+    color: rgb(102, 102, 240);
+    
+}
+p{
+    color: black;
+}
+
+a{
+    color: rgb(46, 173, 223);
+}
+h3{
+    color:rgb(248, 26, 26)
+    
+}
