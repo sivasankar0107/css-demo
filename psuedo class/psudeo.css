@@ -1,0 +1,51 @@
+.k1:hover{
+    font-size: large;
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+} 
+.k2:hover{
+    font-size: large;
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+} 
+.k1 b:first-child {
+    font-size: large;
+    color: plum;
+    background-color: black;
+}
+.k2 b:last-child {
+    font-size: large;
+    color: aquamarine;
+    background-color: black;
+} 
+.k1 p:first-child {
+    font-size:large;
+    color:green;
+    background-color: black;
+
+}
+.k2 p:first-child {
+    font-size:large;
+    color:green;
+    background-color: black;
+
+}
+.k1 p:last-child {
+    font-size:large;
+    color:red;
+    background-color: black;
+
+}
+.k2 p:last-child {
+    font-size:large;
+    color:rgb(128, 0, 0);
+    background-color: black;
+
+}
+.cls{
+    font-size: xx-large;
+    color: orange;
+    background-color: aquamarine;
+}
